@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Shootable
+  - Ball
+  - Event
+  - Explosive
+  - Brick
+  - PowerUp
+  - Multiball
+  - Currency
+  - Life+1
+  - Weird
+  - Ghost
+  - LaserThrough
+  - Wall
+  - Vault
+  - LaserSteal
+  - StolenCoin
+  - StealingLaser
+  - SpawnGhostBrick
+  - Laser
+  - Bestiary
+  - Dense
+  - BluePortal
+  - OrangePortal
+  - LaserActivated
+  - Shockwave
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Lighting
+  - Ground
+  - Postprocessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Fire
+    uniqueID: 3804908061
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

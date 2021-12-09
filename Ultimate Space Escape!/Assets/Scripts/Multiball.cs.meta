@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 48beca55b3dba7f47b91b3f43f5928dc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pickupEffect: {fileID: 1828176872806910, guid: 64891a0eb28db934898420d80ca07cb3,
+      type: 3}
+  - ballsText: {instanceID: 0}
+  - fakeballPrefab: {fileID: 330769790070368980, guid: e4606ab92a101034d9553e7f492a553b,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

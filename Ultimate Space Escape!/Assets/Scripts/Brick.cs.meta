@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: b72a465308860964b8d76cfa47a3d254
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hitMaterial: {fileID: 2100000, guid: 46e4e6a9d247d5e40aae9ced0961a70d, type: 2}
+  - other: {instanceID: 0}
+  - explosionEffect: {instanceID: 0}
+  - powerup: {instanceID: 0}
+  - ghostBrickPrefab: {fileID: 5428124263884824303, guid: a1be77a5893026048b98fcc2f2454f2b,
+      type: 3}
+  - laser: {instanceID: 0}
+  - playerPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

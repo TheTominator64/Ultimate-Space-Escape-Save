@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 26a20c90ab770b947aaaaa21b991763d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _rigidbody: {fileID: 880281702528517611, guid: d817ff3316b9c764e8428c42f074f30b,
+      type: 3}
+  - myCollider: {fileID: -5313132768775308562, guid: d817ff3316b9c764e8428c42f074f30b,
+      type: 3}
+  - currency: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
